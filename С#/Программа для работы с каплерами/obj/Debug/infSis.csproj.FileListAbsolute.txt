@@ -1,0 +1,706 @@
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Project\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\Project\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\Project\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\Project\infSis\infSis\bin\Debug\infSis.exe.config
+D:\Project\infSis\infSis\bin\Debug\infSis.exe
+D:\Project\infSis\infSis\bin\Debug\infSis.pdb
+D:\Project\infSis\infSis\bin\Debug\EntityFramework.dll
+D:\Project\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Project\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+D:\Project\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Project\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+D:\Project\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Project\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Project\infSis\infSis\bin\Debug\System.Buffers.dll
+D:\Project\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+D:\Project\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Project\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project\infSis\infSis\bin\Debug\System.Memory.dll
+D:\Project\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\infSis\infSis\bin\Debug\EntityFramework.xml
+D:\Project\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Project\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Project\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+D:\Project\infSis\infSis\bin\Debug\System.Buffers.xml
+D:\Project\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+D:\Project\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project\infSis\infSis\bin\Debug\System.Memory.xml
+D:\Project\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+D:\Project\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Project\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+D:\Project\infSis\infSis\obj\Debug\infSis.Menu.resources
+D:\Project\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+D:\Project\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+D:\Project\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+D:\Project\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+D:\Project\infSis\infSis\obj\Debug\infSis.exe
+D:\Project\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vaa\Documents\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\vaa\Documents\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vaa\Downloads\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\vaa\Downloads\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EasyDox.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EasyDox.Morpher.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Morpher.API.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Morpher.AppConfigFactory.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Morpher.Dynamic.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Morpher.Generic.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\Morpher.WebService.V2.dll
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EasyDox.xml
+C:\Users\Muze\Desktop\infSis\infSis\bin\Debug\EasyDox.Morpher.xml
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.Autorize.resources
+D:\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+D:\infSis\infSis\obj\Debug\infSis.Autorize.resources
+D:\infSis\infSis\obj\Debug\infSis.Menu.resources
+D:\infSis\infSis\obj\Debug\infSis.Pla.resources
+D:\infSis\infSis\obj\Debug\infSis.Podpis.resources
+D:\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+D:\infSis\infSis\obj\Debug\infSis.Typ.resources
+D:\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+D:\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+D:\infSis\infSis\obj\Debug\infSis.exe
+D:\infSis\infSis\obj\Debug\infSis.pdb
+D:\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\infSis\infSis\bin\Debug\infSis.exe.config
+D:\infSis\infSis\bin\Debug\infSis.exe
+D:\infSis\infSis\bin\Debug\infSis.pdb
+D:\infSis\infSis\bin\Debug\EasyDox.dll
+D:\infSis\infSis\bin\Debug\EasyDox.Morpher.dll
+D:\infSis\infSis\bin\Debug\EntityFramework.dll
+D:\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\infSis\infSis\bin\Debug\Morpher.API.dll
+D:\infSis\infSis\bin\Debug\Morpher.AppConfigFactory.dll
+D:\infSis\infSis\bin\Debug\Morpher.Dynamic.dll
+D:\infSis\infSis\bin\Debug\Morpher.Generic.dll
+D:\infSis\infSis\bin\Debug\Morpher.WebService.V2.dll
+D:\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+D:\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+D:\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\infSis\infSis\bin\Debug\System.Buffers.dll
+D:\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+D:\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+D:\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\infSis\infSis\bin\Debug\System.Memory.dll
+D:\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+D:\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\infSis\infSis\bin\Debug\EasyDox.xml
+D:\infSis\infSis\bin\Debug\EasyDox.Morpher.xml
+D:\infSis\infSis\bin\Debug\EntityFramework.xml
+D:\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+D:\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+D:\infSis\infSis\bin\Debug\System.Buffers.xml
+D:\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+D:\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\infSis\infSis\bin\Debug\System.Memory.xml
+D:\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+D:\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+D:\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.addPopd.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EasyDox.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EasyDox.Morpher.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Morpher.API.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Morpher.AppConfigFactory.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Morpher.Dynamic.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Morpher.Generic.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Morpher.WebService.V2.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EasyDox.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EasyDox.Morpher.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.addPopd.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.Autorize.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.pdb
+C:\Users\vaa\Downloads\infSis (1)\infSis\infSis\obj\Debug\infSis.fPodpis.resources
+C:\Users\Muze\Desktop\infSis\infSis\obj\Debug\infSis.fPodpis.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.autorize.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.TypRed.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\obj\Debug\infSis.reg.resources
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\информационная система\проект\infSis\infSis\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\infSis.exe.config
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\infSis.exe
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\infSis.pdb
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\itextsharp.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\itextsharp.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.autorize.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.Menu.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.Pla.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.Properties.Resources.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.reg.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.Typ.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.TypRed.resources
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.csproj.CopyComplete
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.exe
+C:\Users\User\Desktop\Никита\информационная система\проект\infSis\infSis\obj\Debug\infSis.pdb

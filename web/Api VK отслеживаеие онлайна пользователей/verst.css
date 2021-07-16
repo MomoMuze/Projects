@@ -1,0 +1,50 @@
+.parent {
+    margin: 0;
+    padding: 0;
+}
+
+.lsidebar{
+    width: calc(100% - 1233px);
+    float: left;
+}
+.rsidebar{
+    width: calc(100% - 1235px);
+    float: right;
+}
+.zag1{
+    font-size: 20pt;
+    text-align: center;
+    font-family: Arial;
+}
+.text1{
+    font-size: 15pt;
+    text-align: left;
+    font-family: Arial;
+    text-decoration: none;
+}
+.button{
+    background: black;
+    font-size: 15pt;
+    border: 1px solid black;
+    color: white;
+}
+.button:hover {
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+.table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+.textT{
+    font-size: 12pt;
+    text-align: left;
+    font-family: Arial;
+}
+a:hover{
+    color: red;
+}

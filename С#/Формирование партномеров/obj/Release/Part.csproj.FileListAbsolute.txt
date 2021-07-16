@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Партномера\Part\Part\bin\Release\Part.exe.config
+C:\Users\User\Desktop\Партномера\Part\Part\bin\Release\Part.exe
+C:\Users\User\Desktop\Партномера\Part\Part\bin\Release\Part.pdb
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.Form1.resources
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.Properties.Resources.resources
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.exe
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.pdb
+C:\Users\User\Desktop\Партномера\Part\Part\obj\Release\Part.csprojAssemblyReference.cache
